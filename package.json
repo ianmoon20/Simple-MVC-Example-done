@@ -13,7 +13,11 @@
     "pretest": "eslint ./server --fix",
     "test": "echo \"tests complete\""
   },
-  "author": "Cody Van De Mark",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ianmoon20/Simple-MVC-Example-done.git"
+  },
+  "author": "Ian Moon",
   "license": "ISC",
   "devDependencies": {
     "eslint": "^3.18.0",
